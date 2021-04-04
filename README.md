@@ -25,5 +25,5 @@
 | 嘉楠科技 孙刚 | 边缘AI芯片：加速计算架构变革新10年 |                                                              |      |
 ## 报告会现场直播链接
  * [机械工业出版社九州云播](http://live.eyunbo.cn/live/59915?uin=1729)
- * [CSDN]
- * [极客邦]
+ * [CSDN](https://live.csdn.net/room/wl5875/Lq9DyORU)
+ * [极客邦](https://live.infoq.cn/room/784)
